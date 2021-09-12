@@ -1,7 +1,8 @@
 ---
 ---
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-// @import "{{ site.theme }}";
+@import "{{ site.theme }}";
+minima:
+  skin: dark
 // body {
 //   background-color: black;
 // }
