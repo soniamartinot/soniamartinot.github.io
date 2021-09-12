@@ -1,3 +1,3 @@
-# soniamartinot.github.io
+# [soniamartinot.github.io](https://soniamartinot.github.io)
 
-This is Sonia's website
+This is the source code for my blog. Feel free to check it out ;) 
