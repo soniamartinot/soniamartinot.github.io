@@ -11,17 +11,19 @@ h1 {
   color: cyan;
 }
 
+.page-header {
+  color: cyan;
+  text-align: center;
+}
+
 a:link {
   color: cyan;
 }
-
-
 /* mouse over link */
 a:hover {
   color: silver;
   text-decoration: underline;
 }
-
 /* selected link */
 a:active {
   color: slategray;
