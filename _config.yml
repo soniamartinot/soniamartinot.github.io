@@ -9,3 +9,5 @@ author:
   github: soniamartinot
 
 theme: jekyll-theme-minimal
+minima:
+  skin: dark
