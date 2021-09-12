@@ -12,6 +12,17 @@ h1 {
 }
 
 a:link {
-    text-decoration: underline;
-    color: cyan;
+  color: cyan;
+}
+
+
+/* mouse over link */
+a:hover {
+  color: silver;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: slategray;
 }
