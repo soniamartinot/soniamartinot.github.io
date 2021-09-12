@@ -7,8 +7,12 @@ My research focuses on Artificial Intelligence and Radiotherapy. I am currently 
 
 ## Conferences
 
-* **Fast Monte-Carlo dose simulation with recurrent deep learning**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *European Society for Therapeutic Radiology and Oncology (ESTRO)* - Abstract and oral, 2021
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-*  **Weakly supervised 3D ConvLSTMs for Monte-Carlo radiotherapy dose simulations**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Imaging for Deep Learning (MIDL)* - Short paper, 2021
+-**Fast Monte-Carlo dose simulation with recurrent deep learning**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *European Society for Therapeutic Radiology and Oncology (ESTRO)* - Abstract and oral, 2021
 
-* **High-particle simulation of Monte-Carlo dose distribution with 3D ConvLSTMs**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Image Computing and Computer Assisted Intervention (MICCAI)* - Paper and oral, 2021
+-**Weakly supervised 3D ConvLSTMs for Monte-Carlo radiotherapy dose simulations**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Imaging for Deep Learning (MIDL)* - Short paper, 2021
+
+-**High-particle simulation of Monte-Carlo dose distribution with 3D ConvLSTMs**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Image Computing and Computer Assisted Intervention (MICCAI)* - Paper and oral, 2021
