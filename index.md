@@ -10,7 +10,6 @@ layout: default
 
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-echo '# hello world' >> index.md
 
 # Page under construction ...
 
