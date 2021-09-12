@@ -5,7 +5,7 @@ Hello ! Since July 2020, I'm a PhD student working at [**Therapanacea**](https:/
 My research focuses on Artificial Intelligence and Radiotherapy. I am currently working on creating an AI-based deep learning engine to produce Monte-Carlo-like radiotherapy dose simulations and using AI to better optimize parameters of radiotherapy plans.
 
 
-## Conferences
+# Conferences
 
 __Fast Monte-Carlo dose simulation with recurrent deep learning__, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *European Society for Therapeutic Radiology and Oncology (ESTRO)* - Abstract and oral, 2021
 
