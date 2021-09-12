@@ -8,6 +8,13 @@ author:
   linkedin: sonia-martinot-6437a3107
   github: soniamartinot
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
+
 minima:
-  skin: dark
+  social_links:
+    linkedin: sonia-martinot-6437a3107
+    github: soniamartinot
+   skin: dark
+# minima:
+#   skin: dark
