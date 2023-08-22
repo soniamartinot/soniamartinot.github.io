@@ -7,8 +7,14 @@ My research focuses on Artificial Intelligence and Radiotherapy. I am currently 
 
 # Conferences
 
-__Fast Monte-Carlo dose simulation with recurrent deep learning__, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *European Society for Therapeutic Radiology and Oncology (ESTRO)* - Abstract and oral, 2021
+**Differentiable Gamma Index-Based Loss Functions: Accelerating Monte-Carlo Radiotherapy Dose Simulation**, S. Martinot, N. Komodakis, M. Vakalopoulou, N. Bus, C. Robert, E. Deutsch and N. Paragios, *Image Processing in Medical Imaging (IPMI)* - **Best Poster Award**, Bariloche, Argentina, 2023
+
+**Deep Particles Embedding for Monte-Carlo simulations**, S. Martinot, N. Komodakis, M. Vakalopoulou, N. Bus, C. Robert, E. Deutsch and N. Paragios, *European Society for Therapeutic Radiology and Oncology (ESTRO)* - Poster, Vienna, Austria, 2023
+
+**High-particle simulation of Monte-Carlo dose distribution with 3D ConvLSTMs**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Image Computing and Computer Assisted Intervention (MICCAI)* - Paper & Oral, 2021
 
 **Weakly supervised 3D ConvLSTMs for Monte-Carlo radiotherapy dose simulations**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Imaging for Deep Learning (MIDL)* - Short paper, 2021
 
-**High-particle simulation of Monte-Carlo dose distribution with 3D ConvLSTMs**, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *Medical Image Computing and Computer Assisted Intervention (MICCAI)* - Paper and oral, 2021
+__Fast Monte-Carlo dose simulation with recurrent deep learning__, S. Martinot, N. Bus, M. Vakalopoulou, C. Robert, E. Deutsch and N. Paragios, *European Society for Therapeutic Radiology and Oncology (ESTRO)* - Abstract & Oral, Madrid, Spain, 2021
+
+
