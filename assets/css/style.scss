@@ -3,17 +3,17 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: black;
+  background-color: white;
 }
 
 
 
 h1 {
-  color: paleturquoise;
+  color: darkslategray;
 }
 
 h2 {
-  color: paleturquoise;
+  color: darkslategray;
 }
 
 
@@ -27,7 +27,7 @@ strong {
 }
 
 .page-header {
-  color: paleturquoise;
+  color: darkslategray;
   margin:0 0 40px;
 }
 
